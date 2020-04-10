@@ -4,7 +4,7 @@
 
 ## 1.介绍
 
-### 有以下特点
+#### 有以下特点
 
 * 主体色为浅灰色（#F0F0F0），配色柔和，让屏幕亮度变得不那么刺眼，很适合长期写代码使用
 
@@ -16,7 +16,7 @@
 
 ## 2.截屏
 
-### 口说无凭上图
+#### 口说无凭上图
 ![pic](https://github.com/Er-qu/theme/blob/master/Resources/pic.png)
 
 ![picc](https://github.com/Er-qu/theme/blob/master/Resources/picc.png)
