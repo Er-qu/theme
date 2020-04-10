@@ -17,6 +17,6 @@
 ## 2.截屏
 
 ### 口说无凭上图
-![picc](https://github.com/Er-qu/theme/tree/master/Resources/pic.png)
+![pic](https://github.com/Er-qu/theme/blob/master/Resources/pic.png)
 
-![picc](https://github.com/Er-qu/theme/tree/master/Resources/picc.png)
+![picc](https://github.com/Er-qu/theme/blob/master/Resources/picc.png)
